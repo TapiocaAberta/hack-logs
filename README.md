@@ -17,3 +17,4 @@ Salvar links de posts pra ler depois
 1. [Diversos dados da área da educação](http://www.observatoriodopne.org.br/downloads)
 1. [Dados Cultura](http://plano.dados.cultura.gov.br/)
 1. [BDMEP - Banco de Dados Meteorológicos para Ensino e Pesquisa](http://www.inmet.gov.br/portal/index.php?r=bdmep/bdmep)
+1. [Dados sobre frota de veículos no Brasil](http://www.denatran.gov.br/estatistica/261-frota-2016)
